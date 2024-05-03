@@ -1,5 +1,6 @@
 {
   "name": "phase-2-code-challenge",
+  "homepage": "https://MUSTIADO.github.io/phase-2-code-challenge",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,4 +41,5 @@
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
+
 }
